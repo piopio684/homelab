@@ -21,4 +21,5 @@ Learning how to build simple network infrastructure and develop practical skills
 - SSH
 - Apache
 - Tailscale
-
+# **Network Topology**
+![Network Diagram](docs/Diagram.png)
