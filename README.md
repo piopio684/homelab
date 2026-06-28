@@ -11,7 +11,7 @@ Learning how to build simple network infrastructure and develop practical skills
 - Type-C 1Gb/s network card
 - 64GB Pendrive
 - Type-C USB hub
-# ** hosted services**
+# **hosted services**
 - Docker
 - Portainer
 - Samba
