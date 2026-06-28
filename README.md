@@ -1,8 +1,8 @@
-# **homelab**
+# **Homelab**
 homelab project
-# **purpose**
+# **Purpose**
 Learning how to build simple network infrastructure and develop practical skills in server administration
-# **hardware**
+# **Hardware**
 - Switch Tp link TL-RP108GE
 - Access Point Tp link RE200
 - Orange Pi zero 2W
@@ -11,7 +11,7 @@ Learning how to build simple network infrastructure and develop practical skills
 - Type-C 1Gb/s network card
 - 64GB Pendrive
 - Type-C USB hub
-# **hosted services**
+# **Hosted services**
 - Docker
 - Portainer
 - Samba
@@ -21,5 +21,5 @@ Learning how to build simple network infrastructure and develop practical skills
 - SSH
 - Apache
 - Tailscale
-# **Network Topology**
+# **Network topology**
 ![Network Diagram](docs/Diagram.png)
